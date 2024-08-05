@@ -8,7 +8,7 @@ Soy un desarrollador junior el cual hace esto por hobbie y mis intereses a futur
 - 🎮 Me gusta jugar toda clase de juegos 
 - 📚 Me atrae mucho el leer manga y manwha
 
-## 🔰 Redes Sociales
+## 🔰 **Redes Sociales**
 
  [![X Follow](https://img.shields.io/badge/Twitter-%2334495E?style=for-the-badge&logo=x&labelColor=%23000000)](https://x.com/CreperFantasma)
  [![Twitch Follow](https://img.shields.io/badge/Twitch-%2334495E?style=for-the-badge&logo=twitch&logoColor=%23000000&labelColor=%239146FF)](https://www.twitch.tv/kripii_)
@@ -19,7 +19,7 @@ Soy un desarrollador junior el cual hace esto por hobbie y mis intereses a futur
 
 
 
-## 💠 Habilidades
+## 💠 **Habilidades**
 1. **Lenguajes**:
 -  ![Node.js](https://img.shields.io/badge/Node.js-%2334495E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&labelColor=339933)
 -  ![Python](https://img.shields.io/badge/Phyton-%2334495E?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=3776AB)
