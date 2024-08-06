@@ -23,6 +23,8 @@ Soy un desarrollador junior el cual hace esto por hobbie y mis intereses a futur
 1. **Lenguajes**:
 -  ![Node.js](https://img.shields.io/badge/Node.js-%2334495E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&labelColor=339933)
 -  ![Python](https://img.shields.io/badge/Phyton-%2334495E?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=3776AB)
+-  ![Git](https://img.shields.io/badge/Git-%2334495E?style=for-the-badge&logo=git&logoColor=white&labelColor=F34F29)
+
 2. **Otros**:
 -  ![DaVinci Resolve 18.6](https://img.shields.io/badge/DaVinci_Resolve_18.6-%2334495E?style=for-the-badge&logo=davinciresolve&logoColor=white&logoSize=auto&labelColor=1A2C3B)
 -  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2334495E?style=for-the-badge&logo=adobephotoshop&logoColor=black&logoSize=auto&labelColor=31A8FF)
