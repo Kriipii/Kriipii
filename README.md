@@ -29,7 +29,7 @@ Soy un desarrollador junior el cual hace esto por hobbie y mis intereses a futur
 -  ![DaVinci Resolve 18.6](https://img.shields.io/badge/DaVinci_Resolve_18.6-%2334495E?style=for-the-badge&logo=davinciresolve&logoColor=white&logoSize=auto&labelColor=1A2C3B)
 -  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2334495E?style=for-the-badge&logo=adobephotoshop&logoColor=black&logoSize=auto&labelColor=31A8FF)
 -  ![Photopea](https://img.shields.io/badge/Photopea-%2334495E?style=for-the-badge&logo=photopea&logoColor=white&logoSize=auto&labelColor=18A497)
-- ![Discord](https://img.shields.io/badge/Discord-%2334495E?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2)
+-  ![Discord](https://img.shields.io/badge/Discord-%2334495E?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2)
 
 
 
