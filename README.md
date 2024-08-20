@@ -10,7 +10,7 @@ Soy un desarrollador junior el cual hace esto por hobbie y mis intereses a futur
 
 ## 🔰 **Redes Sociales**
 
- [![X Follow](https://img.shields.io/badge/Twitter-%2334495E?style=for-the-badge&logo=x&labelColor=%23000000)](https://x.com/CreperFantasma)
+ [![X Follow](https://img.shields.io/badge/Twitter-%2334495E?style=for-the-badge&logo=x&labelColor=%23000000)](https://x.com/IKripii)
  [![Twitch Follow](https://img.shields.io/badge/Twitch-%2334495E?style=for-the-badge&logo=twitch&logoColor=%23000000&labelColor=%239146FF)](https://www.twitch.tv/kripii_)
  [![Youtube Follow](https://img.shields.io/badge/Youtube-%2334495E?style=for-the-badge&logo=youtube&labelColor=%23FF0000)](https://www.youtube.com/@Krispo__)
  [![Steam](https://img.shields.io/badge/Steam-%2334495E?style=for-the-badge&logo=steam&logoSize=auto&labelColor=%23000000)](https://steamcommunity.com/id/Kripii_/)
