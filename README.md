@@ -1,4 +1,4 @@
-# ¡Hola, soy **Kripii** 👋
+# ¡Hola, soy **Kripi** 👋
 
 ## 🦆 Sobre Mí
 Soy un desarrollador junior el cual hace esto por hobbie y mis intereses a futuro son: [aprender mas lenguajes de programación para FrontEnd, BackEnd y  Base de Datos].
